@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\bin\Debug\For_Freshers.exe.config
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\bin\Debug\For_Freshers.exe
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\bin\Debug\For_Freshers.pdb
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.Gameop.resources
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.Properties.Resources.resources
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.exe
+C:\Users\hp\source\repos\For_Freshers\For_Freshers\obj\Debug\For_Freshers.pdb
